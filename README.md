@@ -8,16 +8,19 @@ Latest apk apps versions for Android
 
 ### IP Tools apk
 Powerful tool for check, analyze and setup networks. Helps to quickly detecting any computer net problems, ip address and help to improve wifi and mobile connection performance. This is a must-have app for all home wireless router users, IT experts and network administrators.
+
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.iptools)
 [<img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/IPToolsApp/ip-tools-apk)
 
 ### WiFi Tools apk
 Beta version of IP Tools
+
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.iptoolslight)
 [<img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/IPToolsApp/wifi-tools-apk)
 
 ### OS Monitor apk
 Advanced tasks monitor, system usage detector and monitoring app
+
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.activity)
 [<img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/IPToolsApp/os-monitor-apk)
 
