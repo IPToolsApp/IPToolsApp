@@ -10,13 +10,13 @@ Latest apk apps versions for Android 👇
 Powerful tool for check, analyze and setup networks. Helps to quickly detecting any computer net problems, ip address and help to improve wifi and mobile connection performance.
 
 [<img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/IPToolsApp/ip-tools-apk)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.iptools)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://ip-tools.app/android_classic)
 
 ### WiFi Tools
 Beta version of IP Tools.
 
 [<img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/IPToolsApp/wifi-tools-apk)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.iptoolslight)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://ip-tools.app/android)
 
 ### OS Monitor
 Advanced tasks monitor, system usage detector and monitoring app.
